@@ -3,3 +3,4 @@ statsmodels==0.14.1
 numpy
 pandas
 matplotlib
+seaborn

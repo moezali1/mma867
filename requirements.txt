@@ -5,3 +5,8 @@ pandas
 matplotlib
 seaborn
 plotly
+statsforecast
+pycaret
+sktime
+pmdarima
+prophet

@@ -1,0 +1,92 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"New housing price index, monthly","18100205","327-0056","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501",1;2;3;13;14,"CURRENT - a cube available to the public and that is current","Monthly","1981-01-01","2024-02-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","New housing price indexes",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic Region","[1]","2","1","",,
+"1","Quebec","[24]","11","1","",5,
+"1","Ontario","[35]","17","1","",7,
+"1","Prairie Region","[4]","28","1","",,
+"1","British Columbia","[59]","37","1","",12,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","5","2","",,
+"1","Nova Scotia","[12]","7","2","",,
+"1","New Brunswick","[13]","9","2","",,
+"1","St. John's, Newfoundland and Labrador","[1]","4","3","",,
+"1","Charlottetown, Prince Edward Island","[105]","6","5","",,
+"1","Halifax, Nova Scotia","[205]","8","7","",,
+"1","Saint John, Fredericton, and Moncton, New Brunswick","","10","9","",4,
+"1","Québec, Quebec","[421]","12","11","",,
+"1","Sherbrooke, Quebec","[433]","13","11","",,
+"1","Trois-Rivières, Quebec","[442]","14","11","",,
+"1","Montréal, Quebec","[462]","15","11","",,
+"1","Ottawa-Gatineau, Quebec part, Ontario/Quebec","[24505]","16","11","",6,
+"1","Ottawa-Gatineau, Ontario part, Ontario/Quebec","[35505]","18","17","",8,
+"1","Oshawa, Ontario","[532]","19","17","",9,
+"1","Toronto, Ontario","[535]","20","17","",10,
+"1","Hamilton, Ontario","[537]","21","17","",,
+"1","St. Catharines-Niagara, Ontario","[539]","22","17","",,
+"1","Kitchener-Cambridge-Waterloo, Ontario","[541]","23","17","",,
+"1","Guelph, Ontario","[550]","24","17","",,
+"1","London, Ontario","[555]","25","17","",,
+"1","Windsor, Ontario","[559]","26","17","",,
+"1","Greater Sudbury, Ontario","[580]","27","17","",11,
+"1","Manitoba","[46]","29","28","",,
+"1","Saskatchewan","[47]","31","28","",,
+"1","Alberta","[48]","34","28","",,
+"1","Winnipeg, Manitoba","[602]","30","29","",,
+"1","Regina, Saskatchewan","[705]","32","31","",,
+"1","Saskatoon, Saskatchewan","[725]","33","31","",,
+"1","Calgary, Alberta","[825]","35","34","",,
+"1","Edmonton, Alberta","[835]","36","34","",,
+"1","Kelowna, British Columbia","[915]","38","37","",,
+"1","Vancouver, British Columbia","[933]","39","37","",,
+"1","Victoria, British Columbia","[935]","40","37","",,
+"1","Canada","[11124]","1","","",,
+"2","House only","","2","1","",,
+"2","Land only","","3","1","",,
+"2","Total (house and land)","","1","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"2310","New Housing Price Index"
+
+"Subject Code","Subject Name"
+"18","Prices and price indexes"
+
+"Note ID",Note
+1,"This table replaces table 18-10-0052 which was archived with the release of January 2017 data. Data for periods prior to December 2016 were obtained by linking the current New Housing Price Index (NHPI) series, where possible, to indexes in table 18-10-0052."
+2,"Beginning in December 2016, several changes have been made to the New Housing Price Index (NHPI). The census metropolitan areas (CMAs) of Kelowna, Guelph, Trois-Rivières and Sherbrooke are included in the NHPI basket. Separate indexes are published for the census metropolitan areas (CMAs) of Toronto, Oshawa, Ottawa-Gatineau (Ontario part), Ottawa-Gatineau (Quebec part) and Greater Sudbury. The New Housing Price Index no longer includes Thunder Bay."
+3,"The index base period, for which the New Housing Price Index (NHPI) equals 100, is December 2016."
+4,"To maintain the accuracy of the index, Saint John, Fredericton and Moncton are published together."
+5,"Beginning in December 2016, the census metropolitan areas (CMAs) of Ottawa-Gatineau (Quebec part), Trois-Rivières and Sherbrooke are included in the provincial aggregate for Quebec."
+6,"The index for Ottawa-Gatineau (Quebec part) begins in December 2016."
+7,"Beginning in December 2016, the census metropolitan area (CMA) of Guelph is included in the provincial aggregate for Ontario."
+8,"For historical continuity, the Ottawa-Gatineau (Ontario part) index is linked to the previously combined Ottawa-Gatineau index, which was published until December 2016."
+9,"The index for Oshawa begins in December 2016."
+10,"For historical continuity, the Toronto index is linked to the previously combined Toronto and Oshawa index, which was published until December 2016."
+11,"For historical continuity, the Greater Sudbury index is linked to the previously combined Greater Sudbury and Thunder Bay index, which was published until December 2016. The New Housing Price Index no longer includes Thunder Bay."
+12,"Beginning in December 2016, the census metropolitan area (CMA) of Kelowna is included in the provincial aggregate for British Columbia."
+13,"New Housing price indexes denoted with the data quality indicator “E”, should be used with caution."
+14,"This table partially replaces 18100169 which has been archived."
+
+"Correction ID","Correction Date","Correction Note"

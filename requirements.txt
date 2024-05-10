@@ -6,7 +6,10 @@ matplotlib
 seaborn
 plotly
 statsforecast
-pycaret
+pycaret==3.2.0
 sktime
 pmdarima
 prophet
+fairlearn
+xgboost
+catboost

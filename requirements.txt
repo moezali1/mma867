@@ -13,3 +13,4 @@ prophet
 fairlearn
 xgboost
 catboost
+shap==0.42.0

@@ -21,7 +21,7 @@
         ```
      4. Follow the instructions in the Terminal.
 
-2. **Install Visual Studio Code (VS Code):**
+2. **Install Visual Studio Code (VS Code) [Optional]:**
 
    - Download and install Visual Studio Code from the [Official VS Code website](https://code.visualstudio.com/).
 
@@ -41,7 +41,7 @@
      1. Generate a personal access token on GitHub by following the instructions [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
      2. Use the token to authenticate when prompted during a Git operation like `git clone` or `git push`.
 
-5. **Setup Conda Environment and Jupyter Kernel:**
+5. **Setup Conda Environment and Jupyter Kernel: [Optional]**
 
    - Open Terminal or Anaconda Prompt and create a new conda environment named `mma867` with the following command:
      ```
